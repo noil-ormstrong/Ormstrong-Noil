@@ -281,7 +281,6 @@ p {
     color: var(--font);
     overflow: hidden;
     z-index: -2;
-    position: fixed;
   }
 
   #logo {
